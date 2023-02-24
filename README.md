@@ -23,5 +23,5 @@ for simplification my code run on 8 questions only and 4 as batch size.
 Note: My solution is implemented in PyTorch . For running the notebooks, I used the Google Colab with its GPU.
 
 You can check the Google Colab Notebooks here:
- * InterrogativeWord-Classifier: [![Open In Colab](https://colab.research.google.com/drive/1BWe5sGX9UjlOnvwY9TSut6Nbofjj5M9z?usp=sharing)]
- * Evaluate Existed Fine Tuning Bert: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CRNY4_aFulKZgdmMHBCybf7629wPFDsL)
+ * InterrogativeWord-Classifier: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BWe5sGX9UjlOnvwY9TSut6Nbofjj5M9z?usp=sharing)
+
