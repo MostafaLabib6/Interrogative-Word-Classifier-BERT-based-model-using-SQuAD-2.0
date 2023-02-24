@@ -18,7 +18,7 @@ Generation](https://arxiv.org/pdf/1910.13794.pdf)
 I started with the BERT-base pretrained model [bert-base-uncased](https://huggingface.co/bert-base-uncased) and fine-tune it .
 as a benchmark I used the implemented pretrained and fine-tuned model from ***Hugging Face***, named as [BertForSequenceClassification](https://huggingface.co/docs/transformers/model_doc/bert#transformers.BertForSequenceClassification).
 
-for simplification my code run on 8 questions only and 4 as batch size.
+For Simplification my code run on 8 questions only with 4 as batch size.
 
 Note: My solution is implemented in PyTorch . For running the notebooks, I used the Google Colab with its GPU.
 
