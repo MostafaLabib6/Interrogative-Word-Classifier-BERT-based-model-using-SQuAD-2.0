@@ -18,10 +18,13 @@ Generation](https://arxiv.org/pdf/1910.13794.pdf)
 I started with the BERT-base pretrained model [bert-base-uncased](https://huggingface.co/bert-base-uncased) and fine-tune it .
 as a benchmark I used the implemented pretrained and fine-tuned model from ***Hugging Face***, named as [BertForSequenceClassification](https://huggingface.co/docs/transformers/model_doc/bert#transformers.BertForSequenceClassification).
 
-For Simplification my code run on 8 questions only with 4 as batch size.
+
 
 Note: My solution is implemented in PyTorch . For running the notebooks, I used the Google Colab with its GPU.
 
 You can check the Google Colab Notebooks here:
  * InterrogativeWord-Classifier: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BWe5sGX9UjlOnvwY9TSut6Nbofjj5M9z?usp=sharing)
 
+## Update
+. train model on the squadV2 whole dataset
+. validate it on the squadV2 val dataset
