@@ -26,5 +26,5 @@ You can check the Google Colab Notebooks here:
  * InterrogativeWord-Classifier: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BWe5sGX9UjlOnvwY9TSut6Nbofjj5M9z?usp=sharing)
 
 ## Update
-. train model on the squadV2 whole dataset
-. validate it on the squadV2 val dataset
+1. Train model on the squadV2 whole dataset.
+2.  Validate it on the squadV2 val dataset.
